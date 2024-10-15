@@ -1,5 +1,5 @@
 
-# Conversor-de-moedas
+
 # Conversor de Moedas
 
 Um conversor de moedas simples que permite aos usuários converter valores entre diferentes moedas, como Dólar, Euro, Libra, Peso Argentino e Dólar Canadense.
@@ -30,5 +30,19 @@ Este projeto é um aplicativo web que permite aos usuários inserir um valor em 
 3. Selecione a moeda para a qual deseja converter no menu suspenso.
 4. Clique no botão "Converter" para ver o valor convertido.
 
-## Estrutura de Arquivos
+
+## Contribuição
+
+Se você deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
+3. Faça suas alterações e commit (`git commit -m 'Adiciona nova funcionalidade'`).
+4. Envie para o branch (`git push origin feature/nova-funcionalidade`).
+5. Crie um novo Pull Request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
 
